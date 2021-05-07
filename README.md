@@ -1,1 +1,1 @@
-# applied-AI
+# Loan Prediction
